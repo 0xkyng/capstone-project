@@ -1,4 +1,4 @@
-# CUSD NFT MINTER DAPP
+# NFT MINTER DAPP
 
 #### NFT minter decentralised application
 
@@ -14,7 +14,7 @@ Its Built on the [Celo(alfajores testnet)](https://docs.celo.org/network) networ
 
 - Clone the repository by running the command:
 ```bash
-git clone https://github.com/pelzfx/Cusd-Minter-Dapp
+git clone https://github.com/0xkyng/capstone-project
 ```
 _Please ensure you have Git installed before running the above command and subsequent commands_
 
